@@ -8,6 +8,7 @@ const UserProfile = () => {
     <div>
       <p>User Profile</p>
       <h1>Username: {username}</h1>
+      <span>User list completed</span>
     </div>
   );
 };
